@@ -5,7 +5,7 @@
   pkg install python2<br>
   pip2 install mechanize<br>
   pkg install git<br>
-  git clone https://github.com/gellmoxer/whats<br>
+  git clone https://github.com/marty-tech-boy/whats<br>
   cd whats<br>
   python2 whats.py<br>
   <br>
